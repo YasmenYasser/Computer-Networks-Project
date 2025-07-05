@@ -12,13 +12,13 @@ This repository contains the **full implementation** of the Computer Networks pr
 
 ## 📑 Table of Contents
 
-- [Objectives](#objectives)
-- [Project Files](#project-files)
-- [Network Design](#network-design)
-- [Implementation Steps](#implementation-steps)
-- [Testing & Screenshots](#testing--screenshots)
-- [Troubleshooting Guide](#troubleshooting-guide)
-- [Credits](#credits)
+- Objectives
+- Project Files
+- Network Design
+- Implementation Steps
+- Testing & Screenshots
+- Troubleshooting Guide
+- Credits
 
 ---
 
