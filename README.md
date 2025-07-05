@@ -24,14 +24,14 @@ This repository contains the **full implementation** of the Computer Networks pr
 
 ## 🎯 Objectives
 
-- Design and implement a VLSM addressing scheme
-- Build and configure the network and devices
-- Set up Layer 2 (VLANs, trunking, EtherChannel)
-- Configure OSPFv2 & EIGRP routing, with redistribution
-- Implement DHCP, NAT (PAT & Static), and IPsec VPN
-- Enable network management (NTP, Syslog, DNS, Email, Web)
-- Set up and secure a Wireless Home Router
-- Verify connectivity and provide complete documentation
+- 🏷️ **VLSM Addressing:** Design and implement a scalable subnetting scheme  
+- 🛠️ **Network Build:** Configure devices and topology in Packet Tracer  
+- 🧩 **Layer 2 Features:** Set up VLANs, trunking, and EtherChannels  
+- 🗺️ **Dynamic Routing:** Configure OSPFv2 and EIGRP, including redistribution  
+- 🧑‍💻 **Services:** Implement DHCP, NAT (PAT & Static), and IPsec VPN  
+- 🖥️ **Network Management:** Enable NTP, Syslog, DNS, Web, and Email services  
+- 📡 **Wireless Setup:** Configure and secure a wireless home router  
+- ✅ **Verification:** Perform end-to-end testing and provide full documentation
 
 ---
 
@@ -106,19 +106,21 @@ This repository contains the **full implementation** of the Computer Networks pr
 
 ## 🖼️ Testing & Screenshots
 
-All test results (pings, traceroutes, routing tables, interface summaries) and diagrams are available in the `/docs` directory.
+Ping, traceroute, routing table, interface summary, and network diagram results are part of the project.
 
 ---
 
 ## 🛡️ Troubleshooting Guide
 
-A summary of common issues and solutions encountered during implementation is provided in `/docs/troubleshooting.md`.
+Troubleshooting steps and solutions for common network issues are described.
 
 ---
 
 ## 👥 Credits
 
-- Guided by **Dr. Mostafa Abdelrahman**, MIU
+- Guided by Dr. Mostafa Abdelrahman, Misr International University
+
+---
 
 ---
 
